@@ -6,8 +6,8 @@
 #Rock vs Scissors  -> Rock wins
 #Paper vs Scissors -> Scissors wins
 
-#For better interaction between user and system we will be using pyttsx3 for audio of the text
-
+#For better interaction between user and system we will be using pyttsx3 for audio of the text so make sure you have imported pyttssx3 i.e 
+# pip install pyttsx3
 #For this project,we will be random module from python libraries for enabling system to select an option
 import time
 import random
