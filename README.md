@@ -1,7 +1,7 @@
 Rock_Paper_Scissors
 - This game is developed completely in python but its different from other because this project  not only contain text content but also audio
 - Ive added audio effect for the game too for the better interaction between user and the system.
-#Prerequisites:-
+Prerequisites:-
 - before Running the program make sure to import pyttsx3
 #pyttsx3
 -this is the module ive used for audio of the game.
