@@ -5,5 +5,6 @@
 - before Running the program make sure to import pyttsx3
 #pyttsx3
 -this is the module ive used for audio of the game.
-- for importing this module- just go to your command prompt and open your python scripts directory and then give the command - pip install pyttsx3
+- for importing this module- just go to your command prompt and open your python scripts directory and then give the command
+-  - pip install pyttsx3
   
